@@ -1,6 +1,6 @@
 -- You have to replace your vrp/client/basic_garage for my basic_garage, if you have a custom modification you can put only the function
 
--- Put the text from line 60
+-- Change the despawnGarageVehicle function by that one
 
 function tvRP.despawnGarageVehicle(vtype,max_range)
   local vehicle = vehicles[vtype]
