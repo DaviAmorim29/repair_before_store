@@ -2,6 +2,7 @@
 
 ## *In the repository i make a function, if you have a any vehicle and you want to store in the garage after you have to repair.* ##
 
+#Have a tutorial txt in the paste#
 
 My Discord: https://discord.gg/v6bvHJ
 
